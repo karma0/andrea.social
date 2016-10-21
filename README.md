@@ -4,6 +4,8 @@ A single page, static HTML document indicating the optimal ways to get ahold of 
 
 Heavily based on the design elements of [uno-zen](https://github.com/Kikobeats/uno-zen).
 
+Built for [this site](http://bobby.social) (demo).
+
 ## Installation
 
 ```bash
